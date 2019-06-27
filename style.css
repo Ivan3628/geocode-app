@@ -1,0 +1,22 @@
+#weatherMain {
+  background-color: red;
+  text-align: right;
+  margin: 10% 20% 10% 20%;
+}
+#cityHeader {
+  background-color: yellow;
+}
+h1 {
+  margin: 0;
+  font-size: 45px;
+  font-family: "Lucida Sans Unicode", "Lucida   Grande", sans-serif;
+}
+
+#temperature {
+  background-color: green;
+  font-size: 38px;
+}
+#weatherDescriptionHeader {
+  background-color: lightblue;
+  font-size: 28px;
+}
